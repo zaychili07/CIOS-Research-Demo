@@ -49,4 +49,3 @@ Final candidate: `D_OWNERSHIP_SAFE_EXPANSION_v0.3.0`
 - candidate-edge coverage
 - re-entry / identity continuity
 - interaction between locally plausible links and global graph optimization
-

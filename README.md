@@ -57,4 +57,3 @@ CIOS remains active research. Priorities include:
 - continued AVG3 / ATR development with explicit evidence gates
 
 Project Sixth Sense — **We Detect What Others Miss.**
-

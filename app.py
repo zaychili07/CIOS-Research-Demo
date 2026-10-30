@@ -397,4 +397,3 @@ st.sidebar.divider()
 st.sidebar.caption("Project Sixth Sense · We Detect What Others Miss.")
 
 PAGES[page]()
-

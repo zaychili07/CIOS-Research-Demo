@@ -59,4 +59,3 @@ Use the public `https://<your-name>.streamlit.app/` URL in:
 - the LinkedIn Featured section,
 - your GitHub README,
 - your resume/portfolio if desired.
-
